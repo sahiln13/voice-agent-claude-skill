@@ -26,7 +26,7 @@ This skill encodes patterns learned from building production voice agents with V
 
 ```bash
 # Clone to your Claude Code skills directory
-git clone https://github.com/YOUR_USERNAME/voice-agent-prompt-engineer ~/.claude/skills/voice-agent-prompt-engineer
+git clone https://github.com/sahiln13/voice-agent-claude-skill ~/.claude/skills/voice-agent-prompt-engineer
 
 # Create the slash command
 cat > ~/.claude/commands/voice-prompt.md << 'EOF'
